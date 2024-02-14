@@ -1,0 +1,15 @@
+.gameboard {
+  display: flex;
+  justify-content: center;
+}
+
+.gameboard:focus {
+  outline: none;
+}
+
+.gameboard__container {
+  background-color: #363b4b;
+  border: 1px solid rgb(175, 175, 175);
+  position: relative;
+  overflow: hidden;
+}
