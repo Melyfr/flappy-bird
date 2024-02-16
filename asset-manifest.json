@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/garden-spaces/static/css/main.8c34e5d1.css",
-    "main.js": "/garden-spaces/static/js/main.db19d304.js",
-    "static/media/bird-banner.png": "/garden-spaces/static/media/bird-banner.18ad2d2ec92e0a1786d0.png",
-    "index.html": "/garden-spaces/index.html",
-    "main.8c34e5d1.css.map": "/garden-spaces/static/css/main.8c34e5d1.css.map",
-    "main.db19d304.js.map": "/garden-spaces/static/js/main.db19d304.js.map"
+    "main.css": "/flappy-bird/static/css/main.8c34e5d1.css",
+    "main.js": "/flappy-bird/static/js/main.39aff34d.js",
+    "static/media/bird-banner.png": "/flappy-bird/static/media/bird-banner.18ad2d2ec92e0a1786d0.png",
+    "index.html": "/flappy-bird/index.html",
+    "main.8c34e5d1.css.map": "/flappy-bird/static/css/main.8c34e5d1.css.map",
+    "main.39aff34d.js.map": "/flappy-bird/static/js/main.39aff34d.js.map"
   },
   "entrypoints": [
     "static/css/main.8c34e5d1.css",
-    "static/js/main.db19d304.js"
+    "static/js/main.39aff34d.js"
   ]
 }
