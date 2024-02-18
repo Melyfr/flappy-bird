@@ -1,4 +1,4 @@
-### Flappy Bird
+### Flappy Bird Game
 
 ![Flappy-Bird](https://github.com/Melyfr/flappy-bird/assets/72978278/a61b35a7-a596-47d2-bfe9-9f47a895c411)
 <div>
@@ -11,7 +11,7 @@
 
 ### О проекте:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Веб-версия игры Flappy Bird, позволяющая игроку управлять "птицей" и пролететь через препятствия, чтобы получить максимальное количество очков. Управление осуществляется кликом на игровую область. Интерфейс игры адаптирован для различных размеров экрана.
 #
 
 ### Быстрый запуск:
